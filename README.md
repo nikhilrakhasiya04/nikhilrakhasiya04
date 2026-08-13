@@ -1,29 +1,63 @@
+# 👋 Hi, I'm Nikhil Rakhasiya
+
+### 💻 Computer Engineering Student | Full Stack Developer
+
+I'm a Computer Engineering student passionate about building modern, scalable and user-friendly web applications.
+
+I enjoy learning new technologies, solving problems and turning ideas into real-world projects. 🚀
+
 ---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- 🎓 Computer Engineering Student
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently improving my Backend & Database skills
+- 🧠 Interested in Problem Solving and Software Development
+- 🚀 Building projects with React, Next.js and Express.js
+- 📚 Always learning something new
 
-<p align="center">
-  💻 Computer Engineering Student &nbsp; | &nbsp;
-  🚀 Full Stack Developer &nbsp; | &nbsp;
-  🌱 Always Learning
-</p>
+---
 
-<p align="center">
-  <b>Thanks for visiting my profile! ❤️</b>
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
-<p align="center">
-  © 2026 Nikhil Rakhasiya. All Rights Reserved.
+### 🌐 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+### 🗄️ Database & Concepts
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- DBMS
+- Database Design
+- CRUD Operations
+- REST APIs
+
+---
+
+## 📌 Featured Skills
+
+```text
+C              ███████████████░░░░░
+Python         ███████████████░░░░░
+React          █████████████████░░░
+Next.js        ███████████████░░░░░
+Express.js     ███████████████░░░░░
+DBMS           █████████████████░░░
