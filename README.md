@@ -24,3 +24,6 @@
 <p align="center">
   © 2026 YOUR NAME. All Rights Reserved.
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+</p>
