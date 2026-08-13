@@ -1,16 +1,26 @@
-## Hi there 👋
+---
 
-<!--
-**nikhilrakhasiya04/nikhilrakhasiya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  💻 Computer Engineering Student &nbsp; | &nbsp;
+  🚀 Full Stack Developer &nbsp; | &nbsp;
+  🌱 Always Learning
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+</p>
+
+<p align="center">
+  © 2026 YOUR NAME. All Rights Reserved.
+</p>
