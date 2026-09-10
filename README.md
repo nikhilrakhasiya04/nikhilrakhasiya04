@@ -8,6 +8,27 @@ I enjoy learning new technologies, solving problems and turning ideas into real-
 
 ---
 
+## 🔥 Full Stack Developer
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║     🚀  FULL STACK DEVELOPER  🚀                      ║
+║                                                        ║
+║   Building Scalable Web Applications                   ║
+║   Frontend • Backend • Database                        ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+**From Ideas to Production** | *Crafting Digital Solutions* ⚡
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student
@@ -61,3 +82,4 @@ React          █████████████████░░░
 Next.js        ███████████████░░░░░
 Express.js     ███████████████░░░░░
 DBMS           █████████████████░░░
+```
